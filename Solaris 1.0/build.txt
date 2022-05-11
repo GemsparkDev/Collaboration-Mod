@@ -1,0 +1,3 @@
+displayName = Solaris
+author = Solar Cat
+version = 1.0
