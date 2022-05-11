@@ -1,3 +1,3 @@
-displayName = Solaris
-author = Solar Cat
+displayName = Collaboration Mod
+author = Solar Denver And Gemspark
 version = 1.0
